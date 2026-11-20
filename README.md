@@ -70,7 +70,7 @@ HTML semântico, navegação por teclado, link para pular ao conteúdo, foco vis
 ## Links da entrega
 
 - **Repositório:** https://github.com/arianaarai/fiap-global-solution-ruas-vivas
-- **Deploy:** ainda não publicado. No GitHub Pages, o endereço fica https://arianaarai.github.io/fiap-global-solution-ruas-vivas/
+- **Deploy:** https://arianaarai.github.io/fiap-global-solution-ruas-vivas/
 - **Vídeo-pitch:** [Adicionar após publicação]
 - **PDF:** entregue na plataforma da FIAP.
 
